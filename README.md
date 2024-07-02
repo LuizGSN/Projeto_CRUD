@@ -1,2 +1,1 @@
-# Projeto_CRUD
-Projeto de um controle de estoque, com banco de dados em MySQL e código em Python
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizGSN&repo=Projeto_CRUD&show_owner&theme=midnight-purple)
